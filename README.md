@@ -1,8 +1,8 @@
 # munhumutapajs
 
-Transaction signing and address creation for Munhumutapa
+Transaction signing and address creation for Munhumutapa Alphablockchain
 
-Original authors: [toenu23](https://github.com/toenu23/nxtjs), modified for Munhumutapa platform by [Mumbamarwo](https://github.com/munhumutapaalpha/munhumutapajs)
+Original authors: [toenu23](https://github.com/toenu23/nxtjs), modified for Ardor platform by [Toxiapo](https://github.com/Toxiapo/ardorjs), modified for Munhumutapa Alphablockchain by [imunhumutapa](https://github.com/munhumutapaalpha/munhumutapajs)
 
 ### npm install
 `npm install munhumutapajs`
